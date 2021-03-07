@@ -17,9 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Smart Power for Crypto
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: "Data and processing ability are the fossil fuels of the future. The most important limiting factor on processing ability is the availability of\_cheap electricity. The leaders of the future will be those with access to the least expensive electrical power."
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
