@@ -104,7 +104,11 @@ sections:
     title: Latest Posts
 seo:
   title: 'IM Intelligent Mning '
-  description: The preview of the Azimuth theme
+  description: >-
+    Data and processing ability are the fossil fuels of the future. The most
+    important limiting factor on processing ability is the availability of cheap
+    electricity. The leaders of the future will be those with access to the
+    least expensive electrical power.
   extra:
     - name: 'og:type'
       value: website
